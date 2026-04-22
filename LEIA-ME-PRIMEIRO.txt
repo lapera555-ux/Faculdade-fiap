@@ -1,0 +1,4 @@
+ARQUIVOS PARA USAR NO WOKWI
+1) sketch.ino
+2) diagram.json
+3) libraries.txt
